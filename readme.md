@@ -1,0 +1,1 @@
+This is a clone of google's Homepage (Just Html and CSS). There is no functionality in this page. What ?! Do u really expect me to create sth like google ?! r u that dumb ?!
